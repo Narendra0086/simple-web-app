@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Hello world!
+				First DevOps Deployment!
 			</h1>
 		
 			<div>
