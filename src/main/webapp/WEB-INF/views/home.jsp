@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				My First DevOps Deployment!
+				Bala is TFS King
 			</h1>
 		
 			<div>
