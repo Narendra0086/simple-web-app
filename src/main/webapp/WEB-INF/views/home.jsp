@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Bala is a Devops Engineer
+				Bala is a Thanni Master
 			</h1>
 		
 			<div>
