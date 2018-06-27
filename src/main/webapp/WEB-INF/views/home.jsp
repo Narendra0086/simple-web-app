@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Bala is a Thanni Master
+				Kaushikin Kadhal Kadai.... Bullet Raja
 			</h1>
 		
 			<div>
