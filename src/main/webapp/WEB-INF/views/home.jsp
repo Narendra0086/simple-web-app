@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Bala and Narendra DevOps mates
+				DevOps Connect Developer to Operation !!
 			</h1>
 		
 			<div>
