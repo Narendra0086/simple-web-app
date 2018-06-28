@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Balavin Ninetyum Auntyum !
+				Bala and Narendra DevOps mates
 			</h1>
 		
 			<div>
