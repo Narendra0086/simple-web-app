@@ -180,4 +180,13 @@
 		</plugins>
 	</build>
 	<name>simple-web-app</name>
+	
+	<distributionManagement>
+    <repository>
+      <id>FirstID</id>
+	    <name>FirstName</name>    
+      <url>http://localhost:9080/nexus/content/repositories/FirstID/</url>
+    </repository>
+       </distributionManagement>
+	
 </project>
