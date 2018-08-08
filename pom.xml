@@ -28,6 +28,7 @@
 			<groupId>org.mitre</groupId>
 			<artifactId>openid-connect-client</artifactId>
 		</dependency>
+		
 
 		<!-- Spring -->
 		<dependency>
@@ -183,10 +184,16 @@
 	
 	<distributionManagement>
     <repository>
-      <id>FirstID</id>
-	    <name>FirstName</name>    
-      <url>http://localhost:9080/nexus/content/repositories/FirstID/</url>
+        <id>central</id>
+        <name>NPULA-0WUJ7-releases</name>
+        <url>http://localhost:8040/artifactory/nar</url>
     </repository>
-       </distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>NPULA-0WUJ7-snapshots</name>
+        <url>http://localhost:8040/artifactory/nar</url>
+    </snapshotRepository>
+</distributionManagement>
+   
 	
 </project>
