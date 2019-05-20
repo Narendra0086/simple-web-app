@@ -183,7 +183,7 @@
 	<name>simple-web-app</name>
 	
 	<distributionManagement>
-    <repository>
+<!--<repository>
         <id>central</id>
         <name>NPULA-0WUJ7-releases</name>
         <url>http://localhost:8040/artifactory/nar</url>
@@ -192,7 +192,19 @@
         <id>snapshots</id>
         <name>NPULA-0WUJ7-snapshots</name>
         <url>http://localhost:8040/artifactory/nar</url>
-    </snapshotRepository>
+    </snapshotRepository>-->
+	
+	<repository>
+  <id>dev-azure-com-khankesatish0818-khankesatish0818</id>
+  <url>https://pkgs.dev.azure.com/khankesatish0818/_packaging/khankesatish0818/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+
 </distributionManagement>
    
 	
